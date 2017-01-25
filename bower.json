@@ -1,0 +1,17 @@
+{
+  "name": "wednesday-2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Daryn Geib <daryn.geib@yahoo.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/drgeib/wednesday-2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
